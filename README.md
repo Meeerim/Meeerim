@@ -2,7 +2,7 @@
 
 <!--About me-->
 
-## 👩‍💻 :About me
+## 👩‍💻 About me
 - I'm manual and automation QA Engineer
 - I work as QA engineer since 2020.
 - I write autotests in Python and Java 
