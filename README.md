@@ -9,7 +9,7 @@
 - Contacts:
 <p>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/meerim_sabyt"><img width="32px" alt="Telegram" title="Telegram" src="images/social_network/tg.png"/></a>
+  <a href="https://t.me/meerim_sabyt"><img width="32px" alt="Telegram" title="Telegram" src="images/logo_stacks/tg.png"/></a>
   &#8287;
   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=skmeerim1999@gmail.com"><img width="37px" alt="Write me Email" title="Gmail" src="images/social_network/gmail.png"/></a>
 </p>
