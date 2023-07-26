@@ -43,11 +43,12 @@
 <!--Projects-->
 
 ## :floppy_disk: My Demonstration Projects
+### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [API](https://github.com/Meeerim/gorest_autotests_api.git)
+
 ### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [UI](https://github.com/Meeerim/udemy_autotests_web)
 
-### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [API]
 
-### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [Mobile]
+
 
 
 
