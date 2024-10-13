@@ -1,22 +1,34 @@
 ### Hi there 🙂
+Embarking on a QA journey with passion! 🚀
 
 <!--About me-->
 
 ## 👩‍💻 About me
-- I'm manual and automation QA Engineer
-- I work as QA engineer since 2020.
-- I write autotests in Python and Java 
+
+Experienced QA professional with expertise in ensuring product reliability through comprehensive testing of web, mobile
+apps, and client-server applications. Specialized in automated testing using Selenium, Appium, and API testing with
+Postman. Adept at enhancing testing efficiency, improving code coverage, and collaborating with cross-functional teams.
+Proven success in developing automated frameworks, driving defect identification, and contributing to continuous product
+improvements
+
+A quick learner thriving under pressure, committed to perpetual growth. Let's connect for a productive chat on QA insights and explore collaboration opportunities! 🌐
+
 - Contacts:
 <p>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/meerim_sabyt"><img width="32px" alt="Telegram" title="Telegram" src="images/logo_stacks/tg.png"/></a>
+  <a href="https://t.me/meerim_sabyt"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   &#8287;
-  <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=skmeerim1999@gmail.com"><img width="37px" alt="Write me Email" title="Gmail" src="images/social_network/gmail.png"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=meerimsabytkyzy@gmail.com"><img alt="Write me Email" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  
+  <a href="www.linkedin.com/in/meerim-sabyt-a5185417a">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
 </p>
 
 <!--Stack and tools-->
 &#8287;&#8287;&#8287;&#8287;&#8287;
-## :computer:Stack and tools
+## :computer:Stack and Tools:
 <p  align="center">
   <code><img width="5%" title="Pycharm" src="images/logo_stacks/pycharm.png"></code>
   <code><img width="5%" title="Python" src="images/logo_stacks/python.png"></code>
@@ -38,6 +50,16 @@
   <code><img width="5%" title="PuTTY" src="./images/logo_stacks/PuTTY.png"></code>
   <code><img width="5%" title="AWS CloudWatch" src="./images/logo_stacks/AWS.png"></code>
 </p>
+
+**Hard Skills**: Programming languages (Java , Python),JUnit, Maven, Gradle, PostreSQL, Test Automation (Selenium, Appium), Manual Testing (Postman, DevTools), CI/CD (Jenkins, Git), Version Control (Bitbucket,
+GitHub), Agile Methodologies, JSON, Android Studio,Allure TestOps, Bug Tracking (Jira).
+
+**Soft Skills**: Demonstrates continuous learning, effective time management, collaborative teamwork, meticulous documentation,
+acute attention to detail, and adaptability.
+
+**Languages**: English - Advanced, Russian - Fluent
+
+
 <!--Education-->
 
 <!--Projects-->
@@ -45,7 +67,7 @@
 ## :floppy_disk: My Demonstration Projects
 ### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [API](https://github.com/Meeerim/gorest_autotests_api.git)
 
-### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [UI](https://github.com/Meeerim/sauce_demo_UI_autotests)
+### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [UI](https://github.com/Meeerim/udemy_autotests_web)
 
 
 
@@ -74,3 +96,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Meeerim&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Meeerim&theme=tokyonight) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Meeerim&theme=tokyonight)
+
