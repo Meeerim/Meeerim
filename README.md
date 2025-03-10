@@ -16,11 +16,11 @@ A quick learner thriving under pressure, committed to perpetual growth. Let's co
 - Contacts:
 <p>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://t.me/meerim_sabyt"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/meerim_sk"><img alt="Telegram" title="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   &#8287;
   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=meerimsabytkyzy@gmail.com"><img alt="Write me Email" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   
-  <a href="www.linkedin.com/in/meerim-sabyt-a5185417a">
+  <a href="www.linkedin.com/in/meerim-sabyt">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
