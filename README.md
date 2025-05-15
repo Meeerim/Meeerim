@@ -5,7 +5,7 @@ ISTQB Certified | Java + Python | Mobile, Web & API Automation | Remote-ready
 
 <!--About me-->
 
-##№ 👩‍💻 About me
+### 👩‍💻 About me
 
 
 I’m a QA Automation Engineer with hands-on experience in testing mobile, web, and API applications.  
@@ -91,6 +91,10 @@ Web automation tests using Selene + Selenium for the Udemy platform. Custom asse
  #### Additional Education:
 <table width="100%" border='0'>
    <tr><td width="30%" valign="bottom"><img src="images/social_network/qa_guru.png"></td><td valign="middle">School of Test Automation Engineers <a target="_blank" href="https://qa.guru">qa.guru</a>.</td></tr>
+  <tr>
+  <td width="30%" valign="bottom"><img src="images/social_network/istqb.png"></td>
+  <td valign="middle">ISTQB Foundation Level Certification — International Software Testing Qualifications Board</td>
+</tr>
   </table>
 
   
