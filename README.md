@@ -1,15 +1,18 @@
-### Hi there 🙂
-Embarking on a QA journey with passion! 🚀
+### 👋 Hi, I’m Meerim — a QA Automation Engineer with a passion for building reliable test systems and delivering high-quality software.
+
+ISTQB Certified | Java + Python | Mobile, Web & API Automation | Remote-ready
+
 
 <!--About me-->
 
-## 👩‍💻 About me
+##№ 👩‍💻 About me
 
-Experienced QA professional with expertise in ensuring product reliability through comprehensive testing of web, mobile
-apps, and client-server applications. Specialized in automated testing using Selenium, Appium, and API testing with
-Postman. Adept at enhancing testing efficiency, improving code coverage, and collaborating with cross-functional teams.
-Proven success in developing automated frameworks, driving defect identification, and contributing to continuous product
-improvements
+
+I’m a QA Automation Engineer with hands-on experience in testing mobile, web, and API applications.  
+I’ve built test automation frameworks using Java, Python, Selenium, Appium, and Rest Assured.  
+- Automated regression testing for Android app, reducing manual QA effort by 60%  
+- Created reusable test modules and CI pipelines with Jenkins & Allure reporting  
+- Worked in Agile teams with Jira, Confluence, and Git-based workflows  
 
 A quick learner thriving under pressure, committed to perpetual growth. Let's connect for a productive chat on QA insights and explore collaboration opportunities! 🌐
 
@@ -20,7 +23,7 @@ A quick learner thriving under pressure, committed to perpetual growth. Let's co
   &#8287;
   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=meerimsabytkyzy@gmail.com"><img alt="Write me Email" title="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   
-  <a href="www.linkedin.com/in/meerim-sabyt">
+  <a href="https://www.linkedin.com/in/meerim-sabyt">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
@@ -59,17 +62,21 @@ acute attention to detail, and adaptability.
 
 **Languages**: English - Advanced, Russian - Fluent
 
+### 📬 Open to:
+- Remote QA Automation roles (worldwide)
+- SDET, QA Engineer, Test Automation
+- Contract / Full-Time / Freelance
+
 
 <!--Education-->
 
 <!--Projects-->
 
-## :floppy_disk: My Demonstration Projects
-### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [API](https://github.com/Meeerim/gorest_autotests_api.git)
+### 📦 [API Automation Project (GoRest API)](https://github.com/Meeerim/gorest_autotests_api.git)
+Automated testing of GoRest API using Python, Pytest, and Allure. Includes schema validation, CRUD operations, and custom reporting.
 
-### <img width="3%" title="GitHub" src="images/logo_stacks/github.png"> [UI](https://github.com/Meeerim/udemy_autotests_web)
-
-
+### 💻 [UI Automation Project (Udemy Web App)](https://github.com/Meeerim/udemy_autotests_web)
+Web automation tests using Selene + Selenium for the Udemy platform. Custom assertions, modular test structure, and Jenkins integration.
 
 
 
